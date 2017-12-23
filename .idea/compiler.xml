@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="exceptionhandle" />
         <module name="propertoestest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="exceptionhandle" target="1.8" />
+      <module name="globalexceptionhandle" target="1.8" />
       <module name="propertoestest" target="1.8" />
       <module name="spring_example_test" target="1.5" />
     </bytecodeTargetLevel>

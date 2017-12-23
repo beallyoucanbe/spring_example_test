@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exceptionhandle/exceptionhandle.iml" filepath="$PROJECT_DIR$/exceptionhandle/exceptionhandle.iml" />
       <module fileurl="file://$PROJECT_DIR$/propertoestest/propertoestest.iml" filepath="$PROJECT_DIR$/propertoestest/propertoestest.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_example_test.iml" filepath="$PROJECT_DIR$/spring_example_test.iml" />
     </modules>
