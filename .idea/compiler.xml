@@ -7,13 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exceptionhandle" />
+        <module name="multidatasource" />
         <module name="propertoestest" />
+        <module name="spring_boot_starter_hello" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="exceptionhandle" target="1.8" />
       <module name="globalexceptionhandle" target="1.8" />
+      <module name="multidatasource" target="1.8" />
       <module name="propertoestest" target="1.8" />
+      <module name="spring_boot_starter_hello" target="1.5" />
       <module name="spring_example_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>

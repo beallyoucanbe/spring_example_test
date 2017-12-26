@@ -11,6 +11,7 @@
     <modules>
         <module>propertoestest</module>
         <module>exceptionhandle</module>
+        <module>spring_boot_starter_hello</module>
     </modules>
 
 
