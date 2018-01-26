@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exceptionhandle" />
+        <module name="httpclient_example" />
         <module name="multidatasource" />
         <module name="propertoestest" />
         <module name="spring_boot_starter_hello" />
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="exceptionhandle" target="1.8" />
       <module name="globalexceptionhandle" target="1.8" />
+      <module name="httpclient_example" target="1.8" />
       <module name="multidatasource" target="1.8" />
       <module name="propertoestest" target="1.8" />
       <module name="spring_boot_starter_hello" target="1.5" />

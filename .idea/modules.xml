@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exceptionhandle/exceptionhandle.iml" filepath="$PROJECT_DIR$/exceptionhandle/exceptionhandle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient_example/httpclient_example.iml" filepath="$PROJECT_DIR$/httpclient_example/httpclient_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/multidatasource/multidatasource.iml" filepath="$PROJECT_DIR$/multidatasource/multidatasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/propertoestest/propertoestest.iml" filepath="$PROJECT_DIR$/propertoestest/propertoestest.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_starter_hello/spring_boot_starter_hello.iml" filepath="$PROJECT_DIR$/spring_boot_starter_hello/spring_boot_starter_hello.iml" />
