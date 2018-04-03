@@ -10,6 +10,8 @@
         <module name="httpclient_example" />
         <module name="multidatasource" />
         <module name="propertoestest" />
+        <module name="quartetest" />
+        <module name="rabbit_example" />
         <module name="spring_boot_starter_hello" />
       </profile>
     </annotationProcessing>
@@ -19,6 +21,8 @@
       <module name="httpclient_example" target="1.8" />
       <module name="multidatasource" target="1.8" />
       <module name="propertoestest" target="1.8" />
+      <module name="quartetest" target="1.8" />
+      <module name="rabbit_example" target="1.8" />
       <module name="spring_boot_starter_hello" target="1.5" />
       <module name="spring_example_test" target="1.5" />
     </bytecodeTargetLevel>

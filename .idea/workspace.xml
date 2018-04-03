@@ -6,12 +6,129 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a424ac3-c859-491e-8c6d-c7071b11ca31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/HttpService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_1_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_7_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/login_exp_analysis.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/QuartetestApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/HelloJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/SimpleExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example10/PlugInExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example10/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example11/LoadExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example11/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example12/RemoteClientExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example12/RemoteServerExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example12/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example13/ClusterExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example13/SimpleRecoveryJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example13/SimpleRecoveryStatefulJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example14/PriorityExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example14/TriggerEchoJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example15/ClusterExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example15/SimpleRecoveryJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example15/SimpleRecoveryStatefulJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example2/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example2/SimpleTriggerExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example3/CronTriggerExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example3/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example4/ColorJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example4/JobStateExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example5/MisfireExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example5/StatefulDumbJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example6/BadJob1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example6/BadJob2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example6/JobExceptionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example7/DumbInterruptableJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example7/InterruptExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example8/CalendarExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example8/SimpleJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example9/Job1Listener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example9/ListenerExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example9/SimpleJob1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example9/SimpleJob2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quartetest/src/test/java/com/shuoyi/QuartetestApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/RabbitExampleApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/config/RabbitMQConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/listener/ReceiveListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/MessageHandle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/Send.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/SubscriberUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbit_example/src/test/java/com/shuoyi/RabbitExampleApplicationTests.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/Main.java" afterPath="$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/httpclient_example/pom.xml" afterPath="$PROJECT_DIR$/httpclient_example/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientConnectionRelease.java" afterPath="$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientConnectionRelease.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,6 +138,8 @@
     <ignored path="$PROJECT_DIR$/multidatasource/target/" />
     <ignored path="$PROJECT_DIR$/spring_boot_starter_hello/target/" />
     <ignored path="$PROJECT_DIR$/httpclient_example/target/" />
+    <ignored path="$PROJECT_DIR$/rabbit_example/target/" />
+    <ignored path="$PROJECT_DIR$/quartetest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,110 +147,73 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EnableConfigurationPropertiesImportSelector.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector.java">
+      <file leaf-file-name="SimpleExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/SimpleExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1593">
-              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+            <state relative-caret-position="1134">
+              <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
               <folding>
-                <element signature="e#0#4763#0" expanded="false" />
+                <element signature="e#0#3093#0" expanded="false" />
                 <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyExceptionHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/MyExceptionHandler.java">
+      <file leaf-file-name="Scheduler.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/Scheduler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="1536">
+              <caret line="102" column="15" lean-forward="false" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/Main.java">
+      <file leaf-file-name="TriggerBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/TriggerBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="807">
+              <caret line="77" column="4" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/TreeMap.java">
+      <file leaf-file-name="JobListener.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/JobListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="101" column="10" lean-forward="false" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
+            <state relative-caret-position="297">
+              <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java">
+      <file leaf-file-name="ClientCustomContext.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientCustomContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="295" column="9" lean-forward="false" selection-start-line="295" selection-start-column="9" selection-end-line="295" selection-end-column="9" />
+            <state relative-caret-position="324">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/resources/application.properties">
+      <file leaf-file-name="HelloJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/HelloJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpclientExampleApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/HttpclientExampleApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/HttpService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="843">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpclient_example/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="976">
-              <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -144,6 +226,7 @@
         <option value="Enum" />
         <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -152,6 +235,7 @@
       <find>condition</find>
       <find>web</find>
       <find>htt</find>
+      <find>rabbitConnectionFactory</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -165,15 +249,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/propertoestest/src/main/java/shuoyi/service/DemoService.java" />
-        <option value="$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/service/DemoService.java" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/src/main/java/com/shuoyi/comon/Teat.java" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/src/main/java/com/shuoyi/comon/MyException.java" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/src/main/java/com/shuoyi/comon/ResultCode.java" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/pom.xml" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/src/main/java/com/shuoyi/comon/RestResult.java" />
-        <option value="$PROJECT_DIR$/globalexceptionhandle/src/main/java/com/shuoyi/comon/MyExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/MyException.java" />
         <option value="$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/RestResult.java" />
         <option value="$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/ResultCode.java" />
         <option value="$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/Teat.java" />
@@ -212,9 +287,19 @@
         <option value="$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/InitDadaSourceConfig.java" />
         <option value="$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/ConfigurationPropertiesConfig.java" />
         <option value="$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/Main.java" />
-        <option value="$PROJECT_DIR$/httpclient_example/pom.xml" />
         <option value="$PROJECT_DIR$/httpclient_example/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/HttpService.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/Subscribe.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/MessageHandle.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/listener/ReceiveListener.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/SubscriberUtil.java" />
+        <option value="$PROJECT_DIR$/rabbit_example/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/quartetest/pom.xml" />
+        <option value="$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/HelloJob.java" />
+        <option value="$PROJECT_DIR$/httpclient_example/pom.xml" />
+        <option value="$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientConnectionRelease.java" />
       </list>
     </option>
   </component>
@@ -240,8 +325,12 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="httpclient_example" />
+          <option name="myItemId" value="rabbit_example" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -250,12 +339,48 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="httpclient_example" />
+          <option name="myItemId" value="rabbit_example" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.springframework.boot:spring-boot-starter:1.5.10.RELEASE" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rabbit_example" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.springframework.boot:spring-boot-starter:1.5.10.RELEASE" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.springframework.boot:spring-boot:1.5.10.RELEASE" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rabbit_example" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -265,6 +390,35 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -284,6 +438,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,19 +455,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="E:/gccs_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gccsmonitor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -322,11 +476,11 @@
       <recent name="com.shuoyi.main" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workplace\spring_example_test\quartetest\src\main\java\com\shuoyi" />
       <recent name="G:\workplace\spring_example_test\multidatasource\src\main\resources" />
       <recent name="G:\workplace\spring_example_test\exceptionhandle\src\main\java\com\example\common" />
       <recent name="G:\workplace\spring_example_test\globalexceptionhandle" />
       <recent name="G:\workplace\spring_example_test\propertoestest\src\main\resources" />
-      <recent name="G:\workplace\spring_example_test\propertoestest\src\main\java\com\shuoyi\service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,27 +495,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HttpclientExampleApplication">
-    <configuration default="false" name="Teat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.common.Teat" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exceptionhandle" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ClientConnectionRelease">
     <configuration default="false" name="ConditionalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -370,26 +504,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.shuoyi.main.ConditionalMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="propertoestest" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.shuoyi.annotationtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.shuoyi.annotationtest.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -419,6 +533,66 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="propertoestest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.shuoyi.quartz.examples.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.shuoyi.quartz.examples.example1.SimpleExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="quartetest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleTriggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.shuoyi.quartz.examples.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.shuoyi.quartz.examples.example2.SimpleTriggerExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="quartetest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientConnectionRelease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.shuoyi.httpclient_example.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.shuoyi.httpclient_example.service.ClientConnectionRelease" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="httpclient_example" />
       <envs />
       <method />
     </configuration>
@@ -852,22 +1026,39 @@
       <envs />
       <method />
     </configuration>
-    <list size="7">
+    <configuration default="false" name="RabbitExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shuoyi.RabbitExampleApplication" />
+      <module name="rabbit_example" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuartetestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shuoyi.QuartetestApplication" />
+      <module name="quartetest" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.ExceptionhandleApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.MultidatasourceApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Teat" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ConditionalMain" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ConfigurationPropertiesMain" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.HttpclientExampleApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.HttpclientExampleApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.RabbitExampleApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.QuartetestApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ConditionalMain" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ConfigurationPropertiesMain" />
+      <item index="7" class="java.lang.String" itemvalue="Application.SimpleExample" />
+      <item index="8" class="java.lang.String" itemvalue="Application.SimpleTriggerExample" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ClientConnectionRelease" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ConfigurationPropertiesMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ConditionalMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Teat" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Teat" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ClientConnectionRelease" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleTriggerExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConfigurationPropertiesMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ConditionalMain" />
       </list>
     </recent_temporary>
   </component>
@@ -890,7 +1081,15 @@
       <workItem from="1514257252040" duration="20065000" />
       <workItem from="1514374957306" duration="636000" />
       <workItem from="1514423613222" duration="1606000" />
-      <workItem from="1516944909180" duration="4452000" />
+      <workItem from="1516944909180" duration="6240000" />
+      <workItem from="1517539438981" duration="655000" />
+      <workItem from="1517670697209" duration="6488000" />
+      <workItem from="1517834188787" duration="7335000" />
+      <workItem from="1517968920027" duration="21000" />
+      <workItem from="1518253845801" duration="2854000" />
+      <workItem from="1521528306918" duration="8441000" />
+      <workItem from="1521697688406" duration="32000" />
+      <workItem from="1522402403891" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="增加了全局控制异常的处理方式">
       <created>1514010711079</created>
@@ -917,40 +1116,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70286000" />
+    <option name="totallyTimeSpent" value="101176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2947761" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29637527" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08450704" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3163597" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35211268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3434453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17697228" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18070363" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39653304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.082340196" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1010,8 +1209,14 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientConnectionRelease.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1020,420 +1225,52 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/conditional/LinuxListService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/conditional/LinuxCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE-sources.jar!/org/springframework/context/annotation/ConditionEvaluator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="324" column="0" lean-forward="false" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.3.RELEASE/spring-boot-1.5.3.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/config/ELConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/config/ConditionConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/ConditionalMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/resources/connection.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/model/ConnectionSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="53" column="21" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="53" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="79" column="11" lean-forward="false" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/config/ConfigurationPropertiesConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.3.RELEASE/spring-boot-1.5.3.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.3.RELEASE/spring-boot-1.5.3.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="59" column="66" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="575" column="102" lean-forward="true" selection-start-line="575" selection-start-column="102" selection-end-line="575" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/ConfigurationPropertiesMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/resources/connection.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="76" column="44" lean-forward="false" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor</OriginalElement>
-          <nodes>
-            <node x="996.9815277084374" y="-74.71293060409386">org.springframework.beans.factory.config.BeanPostProcessor</node>
-            <node x="343.874687968048" y="-193.10034947578635">java.util.EventListener</node>
-            <node x="858.4815277084374" y="-154.71293060409386">org.springframework.core.Ordered</node>
-            <node x="884.0" y="80.0">org.springframework.beans.factory.BeanFactoryAware</node>
-            <node x="495.0" y="80.0">org.springframework.context.EnvironmentAware</node>
-            <node x="504.874687968048" y="-113.10034947578635">org.springframework.beans.factory.DisposableBean</node>
-            <node x="723.9583333333333" y="0.0">org.springframework.beans.factory.Aware</node>
-            <node x="326.874687968048" y="-113.10034947578635">org.springframework.context.ApplicationListener</node>
-            <node x="837.9815277084374" y="-74.71293060409386">org.springframework.core.PriorityOrdered</node>
-            <node x="513.25" y="180.0">org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor</node>
-            <node x="671.0" y="80.0">org.springframework.context.ApplicationContextAware</node>
-            <node x="666.874687968048" y="-113.10034947578635">org.springframework.beans.factory.InitializingBean</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.context.ApplicationListener" target="java.util.EventListener">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.beans.factory.InitializingBean">
-              <point x="-58.875" y="-15.0" />
-              <point x="611.375" y="140.0" />
-              <point x="729.7216674987519" y="-77.52870693959062" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContextAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-15.0" />
-              <point x="767.5" y="55.0" />
-              <point x="765.9583333333333" y="55.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.core.PriorityOrdered">
-              <point x="98.125" y="-15.0" />
-              <point x="768.375" y="150.0" />
-              <point x="900.5019970044932" y="18.552171742386406" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.context.ApplicationContextAware">
-              <point x="19.625" y="-15.0" />
-              <point x="689.875" y="130.0" />
-              <point x="767.5" y="130.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.context.EnvironmentAware">
-              <point x="-19.625" y="-15.0" />
-              <point x="650.625" y="130.0" />
-              <point x="573.0" y="130.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.beans.factory.DisposableBean">
-              <point x="-98.125" y="-15.0" />
-              <point x="572.125" y="150.0" />
-              <point x="529.3444832750874" y="59.266100848726865" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.context.ApplicationListener">
-              <point x="-137.375" y="-15.0" />
-              <point x="532.875" y="160.0" />
-              <point x="434.9560659011483" y="66.93959061407884" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.core.PriorityOrdered" target="org.springframework.core.Ordered">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.context.EnvironmentAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-15.0" />
-              <point x="573.0" y="55.0" />
-              <point x="737.9583333333333" y="55.0" />
-              <point x="-28.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.beans.factory.config.BeanPostProcessor">
-              <point x="137.375" y="-15.0" />
-              <point x="807.625" y="160.0" />
-              <point x="1037.4308537194208" y="162.32651023464797" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.beans.factory.BeanFactoryAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-15.0" />
-              <point x="961.5" y="55.0" />
-              <point x="793.9583333333333" y="55.0" />
-              <point x="28.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor" target="org.springframework.beans.factory.BeanFactoryAware">
-              <point x="58.875" y="-15.0" />
-              <point x="729.125" y="140.0" />
-              <point x="961.5" y="140.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.8596566523605149" x="257.0" y="-126.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/MyEnVironmentAware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/InitDadaSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/AbstractDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/model/ConnectionSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/control/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#3596#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/config/ConfigurationPropertiesConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#1761#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.context.annotation.ImportSelector">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.context.annotation.ImportSelector</OriginalElement>
-          <nodes>
-            <node x="" y="">org.springframework.context.annotation.ImportSelector</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="68.0" y="-64.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/context/annotation/ImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multidatasource/src/main/java/com/shuoyi/MultidatasourceApplication.java">
+    <entry file="file://$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/controller/ControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#248#249#0" expanded="false" />
-            <element signature="e#316#317#0" expanded="false" />
-          </folding>
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java">
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/config.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="130" column="13" lean-forward="true" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="37" column="40" lean-forward="false" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector">
+    <entry file="uml://JAVA/org.springframework.amqp.rabbit.core.RabbitTemplate">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector</OriginalElement>
+          <OriginalElement>org.springframework.amqp.rabbit.core.RabbitTemplate</OriginalElement>
           <nodes>
-            <node x="" y="">org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector</node>
-            <node x="" y="">org.springframework.context.annotation.ImportSelector</node>
+            <node x="" y="">org.springframework.amqp.core.AmqpTemplate</node>
+            <node x="" y="">org.springframework.amqp.core.MessageListener</node>
+            <node x="" y="">org.springframework.amqp.rabbit.core.RabbitOperations</node>
+            <node x="" y="">org.springframework.amqp.rabbit.connection.RabbitAccessor</node>
+            <node x="" y="">org.springframework.beans.factory.Aware</node>
+            <node x="" y="">org.springframework.amqp.rabbit.support.ListenerContainerAware</node>
+            <node x="" y="">org.springframework.amqp.rabbit.support.PublisherCallbackChannel.Listener</node>
+            <node x="" y="">org.springframework.beans.factory.InitializingBean</node>
+            <node x="" y="">org.springframework.context.Lifecycle</node>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">org.springframework.beans.factory.BeanFactoryAware</node>
+            <node x="" y="">org.springframework.beans.factory.BeanNameAware</node>
+            <node x="" y="">org.springframework.amqp.rabbit.core.RabbitTemplate</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="391.0" y="115.0" />
+          <settings layout="Hierarchic Group" zoom="1.4025157232704404" x="739.0" y="127.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1441,103 +1278,604 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="638" column="18" lean-forward="false" selection-start-line="638" selection-start-column="18" selection-end-line="638" selection-end-column="18" />
+    <entry file="uml://JAVA/org.springframework.amqp.rabbit.connection.CachingConnectionFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.amqp.rabbit.connection.CachingConnectionFactory</OriginalElement>
+          <nodes>
+            <node x="809.0" y="80.0">org.springframework.context.ApplicationEventPublisherAware</node>
+            <node x="1443.0" y="80.0">org.springframework.amqp.rabbit.connection.ConnectionFactory</node>
+            <node x="0.0" y="170.0">org.springframework.amqp.rabbit.connection.PublisherCallbackChannelConnectionFactory</node>
+            <node x="1072.7838541666665" y="0.0">org.springframework.beans.factory.Aware</node>
+            <node x="1129.75" y="170.0">org.springframework.amqp.rabbit.connection.AbstractConnectionFactory</node>
+            <node x="631.0" y="80.0">org.springframework.context.ApplicationListener</node>
+            <node x="1352.75" y="170.0">org.springframework.beans.factory.InitializingBean</node>
+            <node x="453.0" y="80.0">java.lang.FunctionalInterface</node>
+            <node x="603.25" y="0.0">java.util.EventListener</node>
+            <node x="475.5" y="250.0">org.springframework.amqp.rabbit.connection.CachingConnectionFactory</node>
+            <node x="1618.0" y="80.0">org.springframework.beans.factory.DisposableBean</node>
+            <node x="501.0" y="170.0">com.rabbitmq.client.ShutdownListener</node>
+            <node x="1062.0" y="80.0">org.springframework.beans.factory.BeanNameAware</node>
+            <node x="1230.0" y="80.0">org.springframework.context.ApplicationContextAware</node>
+            <node x="323.0" y="170.0">org.springframework.jmx.export.annotation.ManagedResource</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.rabbitmq.client.ShutdownListener" target="java.lang.FunctionalInterface">
+              <point x="-37.5" y="-15.0" />
+              <point x="538.5" y="150.0" />
+              <point x="531.5" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationListener" target="java.util.EventListener">
+              <point x="0.0" y="-15.0" />
+              <point x="710.0" y="55.0" />
+              <point x="696.25" y="55.0" />
+              <point x="31.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.context.ApplicationContextAware">
+              <point x="16.916666666666742" y="-15.0" />
+              <point x="1248.1666666666667" y="130.0" />
+              <point x="1326.5" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.rabbitmq.client.ShutdownListener" target="java.util.EventListener">
+              <point x="37.5" y="-15.0" />
+              <point x="613.5" y="150.0" />
+              <point x="620.5" y="150.0" />
+              <point x="620.5" y="55.0" />
+              <point x="634.25" y="55.0" />
+              <point x="-31.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContextAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.0" />
+              <point x="1326.5" y="55.0" />
+              <point x="1142.7838541666665" y="55.0" />
+              <point x="28.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.beans.factory.DisposableBean">
+              <point x="84.58333333333326" y="-15.0" />
+              <point x="1315.8333333333333" y="150.0" />
+              <point x="1689.0" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.beans.factory.BeanNameAware">
+              <point x="-16.916666666666742" y="-15.0" />
+              <point x="1214.3333333333333" y="130.0" />
+              <point x="1136.0" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.amqp.rabbit.connection.ConnectionFactory">
+              <point x="50.75" y="-15.0" />
+              <point x="1282.0" y="140.0" />
+              <point x="1520.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="com.rabbitmq.client.ShutdownListener">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationEventPublisherAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.0" />
+              <point x="925.5" y="55.0" />
+              <point x="1086.7838541666665" y="55.0" />
+              <point x="-28.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.context.ApplicationEventPublisherAware">
+              <point x="-50.75" y="-15.0" />
+              <point x="1180.5" y="140.0" />
+              <point x="925.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.beans.factory.BeanNameAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.0" />
+              <point x="1136.0" y="55.0" />
+              <point x="1114.7838541666665" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="org.springframework.jmx.export.annotation.ManagedResource">
+              <point x="-40.200000000000045" y="-15.0" />
+              <point x="535.8" y="220.0" />
+              <point x="402.0" y="220.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="org.springframework.beans.factory.InitializingBean">
+              <point x="80.39999999999998" y="-15.0" />
+              <point x="656.4" y="230.0" />
+              <point x="1420.25" y="230.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="org.springframework.amqp.rabbit.connection.PublisherCallbackChannelConnectionFactory">
+              <point x="-80.39999999999998" y="-15.0" />
+              <point x="495.6" y="230.0" />
+              <point x="151.5" y="230.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory">
+              <point x="40.200000000000045" y="-15.0" />
+              <point x="616.2" y="220.0" />
+              <point x="1231.25" y="220.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.context.ApplicationListener">
+              <point x="-84.58333333333326" y="-15.0" />
+              <point x="1146.6666666666667" y="150.0" />
+              <point x="710.0" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8292134831460669" x="368.0" y="-300.0" />
+          <SelectedNodes>
+            <node>org.springframework.amqp.rabbit.connection.CachingConnectionFactory</node>
+            <node>org.springframework.jmx.export.annotation.ManagedResource</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4763#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+    <entry file="uml://JAVA/org.springframework.amqp.rabbit.connection.ConnectionFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.amqp.rabbit.connection.ConnectionFactory</OriginalElement>
+          <nodes>
+            <node x="292.0" y="0.0">org.springframework.amqp.rabbit.connection.ConnectionFactory</node>
+            <node x="269.0" y="160.0">org.springframework.amqp.rabbit.connection.CachingConnectionFactory</node>
+            <node x="268.0" y="80.0">org.springframework.amqp.rabbit.connection.AbstractConnectionFactory</node>
+            <node x="491.0" y="80.0">org.springframework.amqp.rabbit.connection.LocalizedQueueConnectionFactory</node>
+            <node x="0.0" y="80.0">org.springframework.amqp.rabbit.connection.AbstractRoutingConnectionFactory</node>
+            <node x="4.5" y="160.0">org.springframework.amqp.rabbit.connection.SimpleRoutingConnectionFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.amqp.rabbit.connection.SimpleRoutingConnectionFactory" target="org.springframework.amqp.rabbit.connection.AbstractRoutingConnectionFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractRoutingConnectionFactory" target="org.springframework.amqp.rabbit.connection.ConnectionFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="124.0" y="55.0" />
+              <point x="317.8333333333333" y="55.0" />
+              <point x="-51.666666666666686" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.LocalizedQueueConnectionFactory" target="org.springframework.amqp.rabbit.connection.ConnectionFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="614.5" y="55.0" />
+              <point x="421.16666666666663" y="55.0" />
+              <point x="51.66666666666663" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory" target="org.springframework.amqp.rabbit.connection.ConnectionFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.amqp.rabbit.connection.CachingConnectionFactory" target="org.springframework.amqp.rabbit.connection.AbstractConnectionFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-286.0" y="-180.0" />
+          <SelectedNodes>
+            <node>org.springframework.amqp.rabbit.connection.CachingConnectionFactory</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ControllerAdvice.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.6.RELEASE/spring-amqp-1.7.6.RELEASE-sources.jar!/org/springframework/amqp/support/converter/SimpleMessageConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="39" column="2" lean-forward="false" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionhandle/src/main/java/com/example/common/MyExceptionHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/AMQP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.amqp.rabbit.core.RabbitAdmin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.amqp.rabbit.core.RabbitAdmin</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisherAware</node>
+            <node x="" y="">org.springframework.amqp.rabbit.core.RabbitAdmin</node>
+            <node x="" y="">org.springframework.beans.factory.Aware</node>
+            <node x="" y="">org.springframework.context.ApplicationContextAware</node>
+            <node x="" y="">org.springframework.beans.factory.InitializingBean</node>
+            <node x="" y="">org.springframework.amqp.core.AmqpAdmin</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2999999999999998" x="329.0" y="144.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="143" column="0" lean-forward="true" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/AbstractConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="62" column="67" lean-forward="true" selection-start-line="62" selection-start-column="67" selection-end-line="62" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.6.RELEASE/spring-amqp-1.7.6.RELEASE-sources.jar!/org/springframework/amqp/core/AmqpAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1676">
+          <caret line="644" column="19" lean-forward="false" selection-start-line="644" selection-start-column="19" selection-end-line="644" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.2.RELEASE/spring-rabbit-2.0.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="290" column="9" lean-forward="true" selection-start-line="290" selection-start-column="9" selection-end-line="290" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_example/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/MessageHandle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/propertoestest/src/main/java/com/shuoyi/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/Send.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/TreeMap.java">
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/listener/ReceiveListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="101" column="10" lean-forward="false" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="402">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/config/RabbitMQConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="295" column="9" lean-forward="false" selection-start-line="295" selection-start-column="9" selection-end-line="295" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="1323">
+          <caret line="60" column="39" lean-forward="false" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_example/src/main/java/com/shuoyi/rabbitexample/rabbitmq/SubscriberUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/QuartetestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example8/CalendarExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/impl/StdSchedulerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="387" column="36" lean-forward="false" selection-start-line="387" selection-start-column="26" selection-end-line="387" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example4/ColorJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example4/JobStateExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example3/CronTriggerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.quartz.SchedulerFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.quartz.SchedulerFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">org.quartz.SchedulerFactory</node>
+            <node x="" y="">org.quartz.impl.StdSchedulerFactory</node>
+            <node x="" y="">org.quartz.impl.DirectSchedulerFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/SchedulerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example2/SimpleTriggerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="194" column="3" lean-forward="false" selection-start-line="194" selection-start-column="3" selection-end-line="194" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.quartz.JobDetail">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.quartz.JobDetail</OriginalElement>
+          <nodes>
+            <node x="134.0" y="0.0">java.lang.Cloneable</node>
+            <node x="59.00000000000001" y="160.0">org.quartz.impl.JobDetailImpl</node>
+            <node x="72.0" y="80.0">org.quartz.JobDetail</node>
+            <node x="0.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.quartz.JobDetail" target="java.io.Serializable">
+              <point x="-25.5" y="-15.0" />
+              <point x="97.5" y="55.0" />
+              <point x="85.5" y="55.0" />
+              <point x="28.5" y="15.0" />
+            </edge>
+            <edge source="org.quartz.impl.JobDetailImpl" target="java.io.Serializable">
+              <point x="-42.66666666666666" y="-15.0" />
+              <point x="80.33333333333334" y="135.0" />
+              <point x="39.33333333333334" y="135.0" />
+              <point x="39.33333333333334" y="55.0" />
+              <point x="28.5" y="55.0" />
+              <point x="-28.5" y="15.0" />
+            </edge>
+            <edge source="org.quartz.impl.JobDetailImpl" target="org.quartz.JobDetail">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.quartz.impl.JobDetailImpl" target="java.lang.Cloneable">
+              <point x="42.66666666666666" y="-15.0" />
+              <point x="165.66666666666666" y="135.0" />
+              <point x="205.33333333333334" y="135.0" />
+              <point x="205.33333333333334" y="55.0" />
+              <point x="213.5" y="55.0" />
+              <point x="26.5" y="15.0" />
+            </edge>
+            <edge source="org.quartz.JobDetail" target="java.lang.Cloneable">
+              <point x="25.5" y="-15.0" />
+              <point x="148.5" y="55.0" />
+              <point x="160.5" y="55.0" />
+              <point x="-26.5" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-186.0" y="-44.0" />
+          <SelectedNodes>
+            <node>org.quartz.JobDetail</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.quartz.Job">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.quartz.Job</OriginalElement>
+          <nodes>
+            <node x="" y="">org.quartz.Job</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="35.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/JobDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/JobBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="76" column="35" lean-forward="false" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient_example/pom.xml">
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/SimpleExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="976">
-          <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state relative-caret-position="1134">
+          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#3093#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/HttpService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/HttpclientExampleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/httpclient_example/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="807">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/HttpService.java">
+    <entry file="file://$PROJECT_DIR$/quartetest/src/main/java/com/shuoyi/quartz/examples/example1/HelloJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="843">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientConnectionRelease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="44" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient_example/src/main/java/com/shuoyi/httpclient_example/service/ClientCustomContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="102" column="15" lean-forward="false" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/TriggerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="77" column="4" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1-sources.jar!/org/quartz/JobListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>

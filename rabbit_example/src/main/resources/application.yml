@@ -1,0 +1,69 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: dev
+  application:
+    name: rabbitexample
+
+rabbitmq:
+  host: ${mq.host}
+  port: ${mq.port}
+  username: ${mq.username}
+  password: ${mq.password}
+    # 监听消息的通知
+  receiveNotify:
+    virtualHost: notify
+    exchangeName: api-exchange-notify
+    queueName: api-exchange-notify
+    # 发送消息通知
+  sendNotify:
+    virtualHost: notify
+    exchangeName: api-exchange-notify
+    queueName: api-exchange-notify
+
+logging:
+  level:
+    root: 'INFO'
+  file: './logs/gccsEnterpriseNotify.log'
+  pattern:
+    file: '%d{yyyy/MM/dd-HH:mm} [%thread] %-5level %logger- %msg%n'
+    console: '%d{yyyy/MM/dd-HH:mm:ss} [%thread] %-5level %logger- %msg%n'
+---
+# 开发环境配置
+spring:
+  profiles: dev
+db:
+  url: 127.0.0.1:3306
+  username: root
+  password: root
+cache:
+  url: 127.0.0.1:6379
+  password: 123qwe
+mq:
+  host: 127.0.0.1
+  port: 5672
+  username: guest
+  password: guest
+
+
+---
+# 测试环境配置
+spring:
+  profiles: test
+db:
+  url: 127.0.0.1:3306
+  username: root
+  password: root
+cache:
+  url: 127.0.0.1:6379
+  password: 123qwe
+mq:
+  host: 127.0.0.1
+  port: 5672
+  username: guest
+  password: guest
+
+
+---
+# 生产环境配置

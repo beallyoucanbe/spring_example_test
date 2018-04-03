@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/httpclient_example/httpclient_example.iml" filepath="$PROJECT_DIR$/httpclient_example/httpclient_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/multidatasource/multidatasource.iml" filepath="$PROJECT_DIR$/multidatasource/multidatasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/propertoestest/propertoestest.iml" filepath="$PROJECT_DIR$/propertoestest/propertoestest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartetest/quartetest.iml" filepath="$PROJECT_DIR$/quartetest/quartetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit_example/rabbit_example.iml" filepath="$PROJECT_DIR$/rabbit_example/rabbit_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_starter_hello/spring_boot_starter_hello.iml" filepath="$PROJECT_DIR$/spring_boot_starter_hello/spring_boot_starter_hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_example_test.iml" filepath="$PROJECT_DIR$/spring_example_test.iml" />
     </modules>

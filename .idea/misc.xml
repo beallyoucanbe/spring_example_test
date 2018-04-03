@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/exceptionhandle/pom.xml" />
         <option value="$PROJECT_DIR$/multidatasource/pom.xml" />
         <option value="$PROJECT_DIR$/httpclient_example/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit_example/pom.xml" />
+        <option value="$PROJECT_DIR$/quartetest/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
